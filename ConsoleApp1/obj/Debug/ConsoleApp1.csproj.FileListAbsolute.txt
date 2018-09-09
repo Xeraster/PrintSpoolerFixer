@@ -1,0 +1,6 @@
+c:\users\scott\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\PrintReloader1.exe.config
+c:\users\scott\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\PrintReloader1.exe
+c:\users\scott\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\PrintReloader1.pdb
+c:\users\scott\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\PrintReloader1.exe
+c:\users\scott\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\PrintReloader1.pdb
